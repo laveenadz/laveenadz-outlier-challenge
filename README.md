@@ -33,10 +33,13 @@ You must follow these steps for your solution to be accepted -- forks or other m
 
 
 # laveenadz-outlier-challenge
-Git Challenge solved :-used these following Steps:
-1)Created a  new repo in my account 
-2) Clone this repo
-3) Solved the challenge
-4) Sat  new repo as the origin: `git remote set-url origin ${your repo url}`
-5) Pushed  solution to new repo
-6) git url:-https://github.com/laveenadz/laveenadz-outlier-challenge.git
+
+Git Challenge solved :-Used these following Steps:
+
+1) Created a  new repo in my account.
+2) Clone this repo.
+3) Created a new branch in my local repo and merge both branches code on my new branch.
+4) Solved the conflicts
+5) Set  new repo as the origin: `git remote set-url origin https://github.com/laveenadz/laveenadz-outlier-challenge.git`
+6) Pushed  solution to new repo
+7) git url:-https://github.com/laveenadz/laveenadz-outlier-challenge.git
