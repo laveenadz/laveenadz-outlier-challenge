@@ -31,4 +31,12 @@ How to attempt this challenge:
 You must follow these steps for your solution to be accepted -- forks or other methods will not be considered.
 
 
+
 # laveenadz-outlier-challenge
+Git Challenge solved :-used these following Steps:
+1)Created a  new repo in my account 
+2) Clone this repo
+3) Solved the challenge
+4) Sat  new repo as the origin: `git remote set-url origin ${your repo url}`
+5) Pushed  solution to new repo
+6) git url:-https://github.com/laveenadz/laveenadz-outlier-challenge.git
